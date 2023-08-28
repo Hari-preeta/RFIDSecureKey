@@ -7,6 +7,7 @@ In this Arduino project, an LCD display is utilized along with a green LED to in
 The project then proceeds to compare the entered password with a predefined constant RFID password. If the entered password matches the RFID password, the door is opened, and the green LED is illuminated. Conversely, if there is no match, the door remains closed, and the red LED is turned on.
 
 SIMULATION IMAGE:
+
 DOOR OPENED:
 ![image](https://github.com/Hari-preeta/RFIDSecureKey/assets/141815544/df4e7e40-e75f-48af-88ee-904a5a7b78ab)
 
