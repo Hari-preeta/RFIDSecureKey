@@ -8,8 +8,11 @@ The project then proceeds to compare the entered password with a predefined cons
 
 SIMULATION IMAGE:
 
-DOOR OPENED:
+ 
+ DOOR OPENED:
+ 
 ![image](https://github.com/Hari-preeta/RFIDSecureKey/assets/141815544/df4e7e40-e75f-48af-88ee-904a5a7b78ab)
 
 DOOR CLOSED:
+
  ![image](https://github.com/Hari-preeta/RFIDSecureKey/assets/141815544/fbba0bb6-7291-47a2-bba2-cc6af4a61f78)
